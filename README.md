@@ -1,4 +1,4 @@
-# Stopwatch Timer App :watch: - i forked this (the description is from the project i forked it from)
+# Stopwatch Timer App :watch: - i forked this (the readme here is from the project i forked it from)
 
 [![Support via PayPal][badge_paypal_donate]][paypal_donations]
 
